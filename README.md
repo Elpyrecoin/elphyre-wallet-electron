@@ -90,3 +90,4 @@ Please visit our wiki page: [WalletShell User Guide](../../wiki).
 Please see [this guide](docs/porting.md) if you want to adapt WalletShell to be use for your own TurtleCoin fork.
 
 ![WalletShell](docs/walletshell.png)
+# elphyre-wallet-electron
